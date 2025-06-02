@@ -6,6 +6,8 @@
 
 zipはソリューションファイルです。インポート方法は[こちら](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/import-update-export-solutions)。
 
+msappはアプリ単独のファイルです。インポート方法は[こちら](https://learn.microsoft.com/ja-jp/power-apps/maker/canvas-apps/export-import-single-app)。
+
 ## データソースはSharePointリスト
 ### Assets
 ![image](https://github.com/user-attachments/assets/e1c3c188-4b90-411e-9407-e948411f634a)
