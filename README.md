@@ -1,5 +1,5 @@
 # AssetsManagement
-備品予約アプリ
+備品や装置の使用予約アプリ
 
 ## 説明
 動作イメージは[こちら](https://github.com/user-attachments/assets/27b72f27-9946-4139-a1b2-745f5a67c176)。
